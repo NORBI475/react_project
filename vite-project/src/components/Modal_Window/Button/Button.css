@@ -1,0 +1,208 @@
+@font-face {
+    font-family: 'Сomfortaa';
+    src: url('./fonts/Comfortaa-Bold.ttf') format('truetype'); 
+  }
+  
+.kyt{
+    width: 295px;
+    height: 53px;
+    background-color: #64D370;
+    color: white;
+    border-radius: 100px;
+    font-size: 25px;
+    border: 0px;
+    transition: 0.5s;
+
+}
+
+.kyt:hover{
+    width: 295px;
+    height: 53px;
+    background-color: transparent;
+    color: #64D370;
+    border-radius: 100px;
+    font-size: 25px;
+    border: 2px solid #64D370;
+    transition: 0.5s;
+}
+
+.modal-button-2{
+    width: 1180px;
+    height: 400px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 0 auto;
+}
+
+.wgtrj img:hover{
+    transition: 0.5s;
+    -webkit-filter: drop-shadow(5px 5px 5px #ffffff);
+    filter: drop-shadow(0px 0px 5px #ffffff);
+}
+
+.wgtrj img{
+    transition: 0.5s;
+}
+
+
+
+.wgtrj{
+    width: 1150px;
+    height: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: end;
+    margin: 0 auto;
+    padding-top: 50px;
+}
+
+.okna{
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+    display: flex;
+    gap: 15px;
+}
+
+.ytkytk{
+    width: 380px;
+    height: 110px;
+    background-color: #B5B9BC;
+    border-radius: 25px;
+    display: block;
+    transition: 0.5s;
+    font-family: 'Сomfortaa';
+
+
+}
+
+.rtjh img{
+    padding-top: 20px;
+    padding-left: 35px;
+}
+
+.rtjh{
+    width: 310px;
+    height: 30px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.rtjh P{
+    margin-left: 80px;
+}
+
+.ytkytk p{
+    display: flex;
+    padding-left: 35px;
+    padding-top: 20px;
+    width: 310px;
+    flex-wrap: wrap;
+}
+
+.kytdg{
+    width: 700px;
+    height: 105px;
+    flex-wrap: wrap;
+    display: flex;
+    gap: 20px;
+    margin-left: -450px;
+    margin-top: 20px;
+
+}
+
+.ukrt button{
+    border-radius: 50px;
+    border: 0px;
+    width: 324px;
+    height: 60px;
+    background-color: #64D370;
+    box-shadow: 4px 4px 50px 0px #64D370;
+    font-size: 24px;
+    color: white;
+    font-family: 'Сomfortaa';
+}
+
+.nje button{
+    border-radius: 50px;
+    border: 2px solid white;
+    width: 324px;
+    height: 60px;
+    background-color: transparent;
+    font-size: 24px;
+    color: white;
+    box-shadow: inset 0 0 15px white;
+    transition: 0.5s;
+    font-family: 'Сomfortaa';
+    text-shadow: 0px 0px 20px rgb(255, 255, 255);;
+}
+
+.nje{
+    box-shadow: 4px 4px 50px 0px white;
+    border-radius: 50px;
+    transition: 0.5s;
+}
+
+.ukrt button:hover{
+    border-radius: 50px;
+    border: 2px solid white;
+    width: 324px;
+    height: 60px;
+    background-color: transparent;
+    font-size: 24px;
+    color: white;
+    box-shadow: inset 0 0 15px white;
+    transition: 0.5s;
+}
+
+.ukrt{
+    transition: 0.5s;
+}
+
+.ukrt:hover{
+    box-shadow: 4px 4px 50px 0px white;
+    border-radius: 50px;
+    transition: 0.5s;
+
+}
+
+.nje button:hover{
+    border-radius: 50px;
+    border: 0px;
+    width: 324px;
+    height: 60px;
+    background-color: #64D370;
+    box-shadow: 4px 4px 50px 0px #64D370;
+    font-size: 24px;
+    color: white;
+    transition: 0.5s;
+}
+
+.nje:hover{
+    box-shadow: inset 0 0 15px #64D370;
+    transition: 0.5s;
+}
+
+.ytkytk:hover{
+    width: 380px;
+    height: 110px;
+    background-color: white;
+    border-radius: 25px;
+    box-shadow: 4px 4px 50px 0px white;
+    transition: 0.5s;
+}
+
+.njrte button{
+    width: 240px;
+    height: 30px;
+    font-size: 22px;
+    font-family: 'Сomfortaa';
+    border: 0px;
+    border-bottom: 2px solid white;
+    background-color: transparent;
+    color: white;
+    margin-left: 10px;
+    margin-top: 20px;
+}

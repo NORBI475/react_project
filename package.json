@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "@splidejs/splide-extension-auto-scroll": "^0.5.3",
+    "react-router-dom": "^6.28.0",
+    "react-slick": "^0.30.2",
+    "slick-carousel": "^1.8.1",
+    "swiper": "^11.1.14"
+  }
+}

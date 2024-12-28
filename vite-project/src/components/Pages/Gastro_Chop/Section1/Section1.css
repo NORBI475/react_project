@@ -1,0 +1,16 @@
+.gastro-section1{
+    width: 100%;
+    height: 500px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.gastro-section1 img:hover{
+    opacity: 0.5;
+    transition: 0.5s;
+}
+
+.gastro-section1 img{
+    transition: 0.5s;
+}

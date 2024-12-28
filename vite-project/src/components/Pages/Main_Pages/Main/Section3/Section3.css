@@ -1,0 +1,30 @@
+@font-face {
+    font-family: 'Сomfortaa';
+    src: url('./fonts/Comfortaa-Bold.ttf') format('truetype'); 
+}
+
+.blok-slaid{
+    width: 800px;
+    height: 700px;
+    
+}
+
+h2{
+    width: 100%;
+    height: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 32px;
+    font-family: 'Сomfortaa';
+}
+
+/* .swiper-slide {
+ display: none;
+}
+.swiper-slide-visible {
+    display: none;
+   }
+.swiper-slide-fully-visible{
+    display: none;
+   } */

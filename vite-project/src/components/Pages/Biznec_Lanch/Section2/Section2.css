@@ -1,0 +1,20 @@
+@font-face {
+  font-family: 'Сomfortaa';
+  src: url('./fonts/Comfortaa-Bold.ttf') format('truetype'); 
+}
+
+.lanch-section2{
+  width: 1184px;
+  height: 1726px;
+  margin: 0 auto;
+  margin-top: 25px;
+}
+
+.modal-button{
+  width: 1184px;
+  height: 80px;
+  background-color: transparent;
+  align-items: center;
+  justify-content: end;
+  display: flex;
+}

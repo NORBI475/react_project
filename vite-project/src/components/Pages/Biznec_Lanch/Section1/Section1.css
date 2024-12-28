@@ -1,0 +1,29 @@
+@font-face {
+  font-family: 'Сomfortaa';
+  src: url('./fonts/Comfortaa-Bold.ttf') format('truetype'); 
+}
+
+.lanch-section1{
+  background-image: url('./img/Group237.png');
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 100%;
+  height: 500px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: -20px;
+}
+
+.lanch-p{
+  width: 980px;
+  height: 330px;
+  font-size: 18px;
+  font-family: 'Сomfortaa';
+  color: white;
+  text-align: center;
+}
+
+.lanch-p p{
+  margin-bottom: 25px;
+}

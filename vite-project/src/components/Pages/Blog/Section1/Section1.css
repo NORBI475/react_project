@@ -1,0 +1,40 @@
+@font-face {
+  font-family: 'Сomfortaa';
+  src: url('./fonts/Comfortaa-Bold.ttf') format('truetype'); 
+}
+
+.blog-section1{
+  width: 1500px;
+  height: 1000px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+.kartocha1 p{
+  width: 300px;
+  color: black;
+  font-size: 16px;
+  font-family: 'Сomfortaa';
+  margin-left: 25px;
+  font-weight: 700; /* bold */
+  margin-bottom: 15px;
+}
+
+.hsrsdh p{
+  color: gray;
+}
+
+.kartocha1 button{
+  width: 150px;
+  height: 35px;
+  background-color: transparent;
+  border: 2px solid #64D370;
+  color: #64D370;
+  font-family: 'Сomfortaa';
+  font-size: 14px;
+  border-radius: 250px;
+  margin-left: 25px;
+
+}
